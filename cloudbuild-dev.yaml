@@ -20,5 +20,5 @@ steps:
     - 'CLOUDSDK_COMPUTE_REGION=us-east4-b'
     - 'CLOUDSDK_CONTAINER_CLUSTER=hello-cluster'
 options:
- logging: CLOUD_LOGGING_ONLY
-Triggering Cloud Build for dev deployment
+  logging: CLOUD_LOGGING_ONLY
+      Triggering Cloud Build for dev deployment
